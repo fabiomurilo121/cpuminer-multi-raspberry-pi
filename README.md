@@ -4,7 +4,7 @@ CPUMiner-Multi(1.3.5) in Raspberry Pi
 [![Build Status](https://travis-ci.org/tpruvot/cpuminer-multi.svg)](https://travis-ci.org/tpruvot/cpuminer-multi)
 
 This is a multi-threaded CPU miner,
-fork of [pooler](//github.com/pooler)'s and [tpruvot](//github.com/tpruvot)'s cpuminer (see AUTHORS for list of contributors).
+owners [pooler](//github.com/pooler)'s and [tpruvot](//github.com/tpruvot)'s cpuminer (see AUTHORS for list of contributors).
 
 #### Table of contents
 
