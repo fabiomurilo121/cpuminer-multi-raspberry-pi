@@ -8,7 +8,7 @@ fork of [pooler](//github.com/pooler)'s and [tpruvot](//github.com/tpruvot)'s cp
 
 #### Table of contents
 
-* [How to build in Raspberry Pi 3/4](#How to build in Raspberry Pi 3/4)
+* [How to build in Raspberry Pi 3/4](#How-to-build-in-Raspberry-Pi-3/4)
 * [Algorithms](#algorithms)
 * [Dependencies](#dependencies)
 * [Usage instructions](#usage-instructions)
@@ -17,7 +17,7 @@ fork of [pooler](//github.com/pooler)'s and [tpruvot](//github.com/tpruvot)'s cp
 * [License](#license)
 
 # How to build in Raspberry Pi 3/4
-==================================
+
 #### it's very simple !
 
 ```
