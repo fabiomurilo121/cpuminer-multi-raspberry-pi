@@ -16,8 +16,9 @@ fork of [pooler](//github.com/pooler)'s and [tpruvot](//github.com/tpruvot)'s cp
 * [Credits](#credits)
 * [License](#license)
 
-#How to build in Raspberry Pi 3/4
-####it's very simple !
+# How to build in Raspberry Pi 3/4
+==================================
+#### it's very simple !
 
 ```
 sudo apt-get install automake autoconf pkg-config libcurl4-openssl-dev libjansson-dev libssl-dev libgmp-dev zlib1g-dev make g++ git
@@ -31,7 +32,7 @@ Clone with `git clone https://github.com/tpruvot/cpuminer-multi.git`
  ./build.sh
 ```
 
-####command for tests:
+#### command for tests:
 ```
 sudo ./cpuminer -a yescrypt -o stratum+tcp://yescrypt.na.mine.zpool.ca:6233 -u DR7Pu6htPLtfq1kJHpEWgCp3qMUHStFRu5 -p c=DOGE
 ```
